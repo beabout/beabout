@@ -10,3 +10,4 @@ In my spare time, I enjoy
 reach me at
 - 📫 beaboutclayton@gmail.com
 - 🤠 claybeabout.com
+- :man_office_worker: clayton-beabout (linkedin)
