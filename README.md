@@ -1,13 +1,15 @@
 👋 Hi, I’m @beabout. I write software during work hours and in my spare time.
 
-In my spare time, I enjoy
+I also enjoy
 
 - 🕸️ developing for the web (front-end, back-end and all -ends in-between) 
-- 🧰 working with my hands (embedded devices & woodwork) 
-- 📚 reading (novels and non-fiction) 
-- 🏃 running 
+- 🧰 working with my hands
+- 📚 reading
+- 🎥 studying film
+- 🏃 running
 
 reach me at
 - 📫 beaboutclayton@gmail.com
 - 🤠 claybeabout.com
-- :man_office_worker: clayton-beabout (linkedin)
+- LinkedIn: clayton-beabout
+- Letterboxd: bilbobebot
